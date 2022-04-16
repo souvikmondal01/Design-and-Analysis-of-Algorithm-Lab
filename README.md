@@ -10,3 +10,7 @@
 ## Assignment_03
 1. Write a program to find maximum and minimum element in an array using linear search in c.<a href="https://github.com/souvikmondal01/Design-and-Analysis-of-Algorithm-Lab/blob/main/Assignment_03/max-min-linear-search.c"> 🔗</a>
 2. Write a program to find maximum and minimum element in an array using divide and conquer in c.<a href="https://github.com/souvikmondal01/Design-and-Analysis-of-Algorithm-Lab/blob/main/Assignment_03/max-min-divide-conquer.c"> 🔗</a>
+
+## Assignment_04
+1. Write a program to impliment merge sort in c.<a href="https://github.com/souvikmondal01/Design-and-Analysis-of-Algorithm-Lab/blob/main/Assignment_04/mergeSort.c"> 🔗</a>
+2. Write a program to impliment quick sort in c.<a href="https://github.com/souvikmondal01/Design-and-Analysis-of-Algorithm-Lab/blob/main/Assignment_04/quickSort.c"> 🔗</a>
